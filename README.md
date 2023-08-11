@@ -34,16 +34,16 @@ Content Details: Includes information about the video's technical specifications
 Caption: Indicates whether captions are available (true or false).
 Content Rating: YouTube content rating (e.g., 'ytRating': None).
 Definition: Video definition quality (e.g., 'hd' for high definition).
-- -Dimension: Video dimension (e.g., '2d' for 2-dimensional).
-- -Duration: Duration of the video (e.g., 'PT16M34S' for 16 minutes and 34 seconds).
+- Dimension: Video dimension (e.g., '2d' for 2-dimensional).
+- Duration: Duration of the video (e.g., 'PT16M34S' for 16 minutes and 34 seconds).
 Licensed Content: Indicates whether the content is licensed (true or false).
 Projection: Type of video projection (e.g., 'rectangular').
 Region Restriction: Any region restrictions applied to the video
 Statistics: Features video engagement metrics:
 Comment Count: Number of comments on the video
-- -Favorite Count: Number of times the video has been marked as a favorite (e.g., '0').
+- Favorite Count: Number of times the video has been marked as a favorite (e.g., '0').
 Like Count: Number of likes on the video (e.g., '29942').
 View Count: Number of views for the video (e.g., '704710').
 Description: A brief description or summary of the video content
-- -URLs: Links associated with the video's description
+- URLs: Links associated with the video's description
 
